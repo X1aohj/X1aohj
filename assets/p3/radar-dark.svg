@@ -1,6 +1,6 @@
 <svg width="960" height="330" viewBox="0 0 960 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
   <title id="t">X1AOHJ activity</title>
-  <desc id="d">GitHub contributions by type over the last 90 days: commits 7, pull requests 0, code review 0, issues 0, new repos 0.</desc>
+  <desc id="d">GitHub contributions by type over the last 90 days: commits 7, pull requests 0, code review 0, issues 1, new repos 0.</desc>
   <defs>
     <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0d2a5c" />
@@ -38,9 +38,9 @@
     <text x="154.7" y="166.3" fill="#8fb8e8" font-size="12" letter-spacing="2" text-anchor="end">NEW REPOS</text>
   <circle class="ripple" cx="260" cy="192" r="96" fill="none" stroke="#5ad1ff" stroke-width="1.2" opacity="0" />
   <g class="shape">
-    <polygon points="260.0,153.6 278.3,186.1 271.3,207.5 248.7,207.5 241.7,186.1" fill="#5ad1ff" fill-opacity="0.22" stroke="#5ad1ff" stroke-width="2" stroke-linejoin="round" />
+    <polygon points="260.0,153.6 278.3,186.1 271.3,207.5 237.4,223.1 241.7,186.1" fill="#5ad1ff" fill-opacity="0.22" stroke="#5ad1ff" stroke-width="2" stroke-linejoin="round" />
   </g>
-  <g class="dots"><rect x="256.5" y="150.1" width="7" height="7" fill="#5ad1ff" transform="rotate(45 260.0 153.6)" /><rect x="274.8" y="182.6" width="7" height="7" fill="#5ad1ff" transform="rotate(45 278.3 186.1)" /><rect x="267.8" y="204.0" width="7" height="7" fill="#5ad1ff" transform="rotate(45 271.3 207.5)" /><rect x="245.2" y="204.0" width="7" height="7" fill="#5ad1ff" transform="rotate(45 248.7 207.5)" /><rect x="238.2" y="182.6" width="7" height="7" fill="#5ad1ff" transform="rotate(45 241.7 186.1)" /></g>
+  <g class="dots"><rect x="256.5" y="150.1" width="7" height="7" fill="#5ad1ff" transform="rotate(45 260.0 153.6)" /><rect x="274.8" y="182.6" width="7" height="7" fill="#5ad1ff" transform="rotate(45 278.3 186.1)" /><rect x="267.8" y="204.0" width="7" height="7" fill="#5ad1ff" transform="rotate(45 271.3 207.5)" /><rect x="233.9" y="219.6" width="7" height="7" fill="#5ad1ff" transform="rotate(45 237.4 223.1)" /><rect x="238.2" y="182.6" width="7" height="7" fill="#5ad1ff" transform="rotate(45 241.7 186.1)" /></g>
   
     <text x="530" y="100" fill="#8fb8e8" font-size="14" letter-spacing="3">COMMITS</text>
     <text class="k" x="770" y="100" fill="#ffffff" font-size="24" text-anchor="end">7</text>
@@ -55,8 +55,8 @@
     <polygon points="795,181 817.0,181 814.0,192 792,192" fill="#36507e" /><polygon class="blk" points="795,181 817.0,181 814.0,192 792,192" fill="#5ad1ff" style="animation-delay:840ms" /><polygon points="821,181 843.0,181 840.0,192 818,192" fill="#36507e" /><polygon points="847,181 869.0,181 866.0,192 844,192" fill="#36507e" /><polygon points="873,181 895.0,181 892.0,192 870,192" fill="#36507e" /><polygon points="899,181 921.0,181 918.0,192 896,192" fill="#36507e" />
     <line x1="530" y1="208" x2="920" y2="208" stroke="#36507e" stroke-width="1" opacity="0.6" />
     <text x="530" y="238" fill="#8fb8e8" font-size="14" letter-spacing="3">ISSUES</text>
-    <text class="k" x="770" y="238" fill="#ffffff" font-size="24" text-anchor="end">0</text>
-    <polygon points="795,227 817.0,227 814.0,238 792,238" fill="#36507e" /><polygon class="blk" points="795,227 817.0,227 814.0,238 792,238" fill="#5ad1ff" style="animation-delay:960ms" /><polygon points="821,227 843.0,227 840.0,238 818,238" fill="#36507e" /><polygon points="847,227 869.0,227 866.0,238 844,238" fill="#36507e" /><polygon points="873,227 895.0,227 892.0,238 870,238" fill="#36507e" /><polygon points="899,227 921.0,227 918.0,238 896,238" fill="#36507e" />
+    <text class="k" x="770" y="238" fill="#ffffff" font-size="24" text-anchor="end">1</text>
+    <polygon points="795,227 817.0,227 814.0,238 792,238" fill="#36507e" /><polygon class="blk" points="795,227 817.0,227 814.0,238 792,238" fill="#5ad1ff" style="animation-delay:960ms" /><polygon points="821,227 843.0,227 840.0,238 818,238" fill="#36507e" /><polygon class="blk" points="821,227 843.0,227 840.0,238 818,238" fill="#5ad1ff" style="animation-delay:1020ms" /><polygon points="847,227 869.0,227 866.0,238 844,238" fill="#36507e" /><polygon points="873,227 895.0,227 892.0,238 870,238" fill="#36507e" /><polygon points="899,227 921.0,227 918.0,238 896,238" fill="#36507e" />
     <line x1="530" y1="254" x2="920" y2="254" stroke="#36507e" stroke-width="1" opacity="0.6" />
     <text x="530" y="284" fill="#8fb8e8" font-size="14" letter-spacing="3">NEW REPOS</text>
     <text class="k" x="770" y="284" fill="#ffffff" font-size="24" text-anchor="end">0</text>
