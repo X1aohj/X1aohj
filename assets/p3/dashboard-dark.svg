@@ -32,20 +32,20 @@
   <line x1="40" y1="172" x2="100" y2="172" stroke="#5ad1ff" stroke-width="2" />
   <text x="40" y="204" fill="#8fb8e8" font-size="14" letter-spacing="3">LANGUAGES</text>
   <rect x="40" y="216" width="400" height="8" fill="#36507e" />
-  <rect class="seg" x="40.0" y="216" width="135.8" height="8" fill="#5ad1ff" style="animation-delay:200ms" /><rect class="seg" x="175.8" y="216" width="109.6" height="8" fill="#2f7fe0" style="animation-delay:290ms" /><rect class="seg" x="285.4" y="216" width="53.8" height="8" fill="#a9c8ef" style="animation-delay:380ms" /><rect class="seg" x="339.2" y="216" width="35.8" height="8" fill="#3d5c96" style="animation-delay:470ms" /><rect class="seg" x="375.0" y="216" width="65.0" height="8" fill="#6f7f99" style="animation-delay:560ms" />
+  <rect class="seg" x="40.0" y="216" width="136.1" height="8" fill="#5ad1ff" style="animation-delay:200ms" /><rect class="seg" x="176.1" y="216" width="109.5" height="8" fill="#2f7fe0" style="animation-delay:290ms" /><rect class="seg" x="285.6" y="216" width="53.7" height="8" fill="#a9c8ef" style="animation-delay:380ms" /><rect class="seg" x="339.4" y="216" width="35.8" height="8" fill="#3d5c96" style="animation-delay:470ms" /><rect class="seg" x="375.1" y="216" width="64.9" height="8" fill="#6f7f99" style="animation-delay:560ms" />
   
     <rect x="41" y="241" width="8" height="8" fill="#5ad1ff" transform="rotate(45 45 245)" />
     <text x="58" y="250" fill="#ffffff" font-size="14">Python</text>
-    <text class="n" x="220" y="250" fill="#8fb8e8" font-size="14" text-anchor="end">33.9%</text>
+    <text class="n" x="220" y="250" fill="#8fb8e8" font-size="14" text-anchor="end">34.0%</text>
     <rect x="251" y="241" width="8" height="8" fill="#2f7fe0" transform="rotate(45 255 245)" />
     <text x="268" y="250" fill="#ffffff" font-size="14">C#</text>
     <text class="n" x="430" y="250" fill="#8fb8e8" font-size="14" text-anchor="end">27.4%</text>
     <rect x="41" y="265" width="8" height="8" fill="#a9c8ef" transform="rotate(45 45 269)" />
     <text x="58" y="274" fill="#ffffff" font-size="14">Vue</text>
-    <text class="n" x="220" y="274" fill="#8fb8e8" font-size="14" text-anchor="end">13.5%</text>
+    <text class="n" x="220" y="274" fill="#8fb8e8" font-size="14" text-anchor="end">13.4%</text>
     <rect x="251" y="265" width="8" height="8" fill="#3d5c96" transform="rotate(45 255 269)" />
     <text x="268" y="274" fill="#ffffff" font-size="14">TS</text>
-    <text class="n" x="430" y="274" fill="#8fb8e8" font-size="14" text-anchor="end">9.0%</text>
+    <text class="n" x="430" y="274" fill="#8fb8e8" font-size="14" text-anchor="end">8.9%</text>
     <rect x="41" y="289" width="8" height="8" fill="#6f7f99" transform="rotate(45 45 293)" />
     <text x="58" y="298" fill="#ffffff" font-size="14">Other</text>
     <text class="n" x="220" y="298" fill="#8fb8e8" font-size="14" text-anchor="end">16.2%</text>
